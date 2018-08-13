@@ -1,5 +1,11 @@
 # justforfunc
 
+> **Notes:**  
+> This Repo is my learning notes during wathing justforfunc.  
+>
+> By Fivezh
+--------------------------------
+
 This repository contains the code for most of the episodes from the YouTube
 series [#justforfunc](http://youtube.com/c/justforfunc).
 
